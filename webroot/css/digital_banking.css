@@ -1,0 +1,6 @@
+.digital_banking {
+  background-image: url("../images/bg-intro-mobile.svg");
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: calc(100% + 652px);
+  padding-block-end: 652px; }
