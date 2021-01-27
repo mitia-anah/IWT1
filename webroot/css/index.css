@@ -119,12 +119,20 @@ a {
   .drawer-menu ul > li {
     margin: 1rem; } }
 
+.digital_banking > .bg {
+  width: 100%;
+  position: relative;
+  z-index: -1; }
+
 .digital_banking {
-  background-image: url("../images/bg-intro-mobile.svg");
+  background-image: url(../images/image-mockups.png);
   background-repeat: no-repeat;
-  background-position-x: 50%;
-  background-position-y: calc(100% + 652px);
-  padding-block-end: 652px; }
+  background-position: 50% -177px;
+  background-size: 500px; }
+
+.digital_banking_inner {
+  padding: 2rem;
+  max-width: 90%; }
 
 footer {
   background-color: #1f1235;
